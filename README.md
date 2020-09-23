@@ -1,4 +1,3 @@
-# Turn-based Combat
-Project files for our tutorial on how to create a turn-based battle system.
+# Turn-based Combat in Unity Tutorial
 
-Check out our [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
+This repo contains the project files for Brackeys' tutorial on how to create a turn-based battle system in Unity.
